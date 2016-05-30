@@ -1,3 +1,10 @@
 #!/usr/bin/env python
+import cemd
+import sys
 
-# insert test script here
+def main():
+  # insert test script here
+  pass
+
+if __name__ == '__main__':
+  sys.exit(main())
